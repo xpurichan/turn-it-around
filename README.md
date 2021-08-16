@@ -15,4 +15,6 @@ Our partner's organization provides an anti-bullying resources to students, cous
 
 * P2: link-to-p2
 * Project Brief: https://docs.google.com/document/d/11V075Gj6Jm2XnpcRXmd8cxlmaGtguIlXOggtSk2dsj8/edit?usp=sharing
+* Existing website: http://turnitaround.org
+* Pressable site: TKTK
 * Front communications: link-to-front
