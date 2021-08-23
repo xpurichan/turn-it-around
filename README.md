@@ -4,7 +4,7 @@
 **TAM: Lilly Steward**
 
 #### High level overview: ####
-Our partner's organization provides an anti-bullying resources to students, couselors, and teachers. They need our aid to make the website more accessible to students and guardians for all levels of school and a new design to make resources easier to find on the website while removing outdated clutter. 
+Our partner's organization provides anti-bullying resources to students, counselors, and teachers. They need our aid to make the website more accessible to students and guardians for all levels of school, and a new design to make resources easier to find on the website while removing outdated clutter. 
 
 * Perform a UX/design analysis to help expand the target audience
 * Redesign the website with a new theme, but use the existing branding
